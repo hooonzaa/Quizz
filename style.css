@@ -1,0 +1,13 @@
+.text {
+    background: url(https://media.istockphoto.com/id/1623303770/photo/creative-background-image-is-blurred-evening-city-lights-and-light-snowfall.jpg?b=1&s=612x612&w=0&k=20&c=--I6QisPR7yGmgujOI2co8U3FIK5tBv6xAjMup67ghc=) 0 0 /cover no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.SMTH :hover{
+transition: 1s all ease-in-out;
+border-radius: 20%;
+background-color: blue;
+color: aliceblue;
+box-shadow: 5%;
+
+}
